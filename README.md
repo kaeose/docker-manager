@@ -7,7 +7,7 @@ A comprehensive Docker management web interface built with Go.
 ## Build
 
 ```bash
-go build -o docker-manager
+go build -o docker-manager ./cmd/server
 ```
 
 ## Run
